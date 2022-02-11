@@ -1,4 +1,4 @@
-## Pascal
+# Pascal
 
 Assalaamu'alaikum, in this repository there are some applications built using Pascal. The menu is made using REPEAT UNTIL iteration. 
 <ul>
@@ -8,7 +8,7 @@ Assalaamu'alaikum, in this repository there are some applications built using Pa
 
 ## How to Use
 
-1. You need a Pascal compiler, we recommend using Free Pascal, which can be downloaded <a href="https://www.freepascal.org/download.html">here</a>.
+1. You need a Pascal compiler, we recommend using Free Pascal, which can be downloaded <a href="https://www.freepascal.org/download.html" target="_blank">here</a>.
 2. Now open terminal, and navigate to Pascal source file (using <code>cd</code> ), which you have downloaded from this repository.
 3. Type <code>fpc file_name.pas</code> and hit enter. <code>fpc</code> command are used for compile the source file to produce executable file.
 4. Last, type <code>./file_name.pas</code> and hit enter. <code>./</code> command are used for run executable file.
